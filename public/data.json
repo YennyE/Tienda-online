@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "producto" : "Roa",
+        "precio" : 20,
+        "img" :"imagenes/arroz.JPG",
+        "cantidad" :1
+    },
+    {
+        "id" : 2,
+        "producto": "Flor Huila",
+        "precio" : 30,
+        "img" :"imagenes/florhuila.JPG",
+        "cantidad" :1
+
+    },
+    {
+        "id" : 3,
+        "producto" : "Esmeralda",
+        "precio" : 20,
+        "img" :"imagenes/esmeralda.JPG",
+        "cantidad" :1
+    },
+    {
+        "id" : 4,
+        "producto": "Cristy",
+        "precio" : 30,
+        "img" :"imagenes/cristy.JPG",
+        "cantidad" :1
+
+    }
+]

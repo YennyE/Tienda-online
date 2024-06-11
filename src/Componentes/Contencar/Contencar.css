@@ -1,0 +1,38 @@
+.contencar{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.contencar > img{
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+.carTotal{
+    text-align: center;
+}
+.mensaje-carrito{
+    text-align: center;
+    margin-top: 40px;
+}
+/*Boton contar*/
+.cont-button{
+    cursor: pointer;
+    font-weight: bold;
+}
+/*Boton eliminar*/
+.eliminar-button{
+    cursor: pointer;
+}
+.carrito-items-total{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+    padding: 4px;
+    top: 37px;
+    right: 14px;
+    position: absolute;
+}
